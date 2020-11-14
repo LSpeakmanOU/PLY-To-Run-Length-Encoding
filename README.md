@@ -3,4 +3,4 @@ A super basic Run Length Encoding Converter for Magicavoxel.
 
 This program takes in Point PLY files then converts them to .RLE files
 
-# Usage: program.exe <inputfile> <outputfile>
+# Usage: program.exe inputfile outputfile
